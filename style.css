@@ -1,0 +1,113 @@
+.web
+{
+    background-color:lightgoldenrodyellow;
+}
+.navbar-navigation
+{
+    background-color:grey;
+    border-width: 20px;
+    max-height: 50px;
+    padding-top: 0%;
+    padding-bottom: 0%;
+    text-transform: uppercase;
+
+}
+.logo
+{
+   
+   float:left;
+}
+div.navbar-heading
+{
+    font-size:30px;
+    font
+    
+}
+.navbar-nav
+{
+    background-color:orange ;
+    max-width: 100;
+    height:auto;
+}
+.icon-bar
+{
+    background:black;
+}
+
+.big-text
+{
+    font-size: 50px;
+    color:darkred;
+    text-transform: uppercase;
+}
+.small-text
+{
+    font-size: 15px;
+    color:brown;
+    font-style:bold;
+    text-transform: uppercase;
+}
+.img-fluid
+{
+    max-width:70%;
+    height:auto;
+    position: relative;
+    align-self: right;
+    display:flex;
+    
+}
+<!------------login------------------!>
+.login-img
+{
+    max-width:70%;
+    height:auto;
+    position:relative;
+    align-self:left;
+    display:flex;
+    float:left;
+    
+   
+    
+}
+.description
+{
+    font-size:20px;
+    font-style:italic;
+    padding-top: 30%;
+    
+
+    
+}
+<!-------------signup---------------!>
+.signup-img
+{
+     max-width:70%;
+    height:auto;
+    align-self: left;
+    display:flex;
+    position: relative;  
+}
+.descript
+{
+    font-size:20px;
+    font-style:italic;
+    padding-top: 30%;
+
+
+}
+<!---------------pricing---------!>
+#pricing
+{
+    font-size: 30px;
+}
+
+
+.pricing-img
+{
+    max-width:60%;
+    height:auto;
+    position:relative;
+    align-self:left;
+    display:flex;
+
+}
